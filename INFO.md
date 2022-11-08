@@ -2,3 +2,6 @@ git is awesome!
 new line
 experiment with amend
 new data
+new data2
+new data3
+new data4
